@@ -5,4 +5,4 @@
 [![GitHub](https://img.icons8.com/bubbles/100/000000/github.png)](https://github.com/LakshmiDeepak9653)
 [![Instagram](https://img.icons8.com/bubbles/100/000000/instagram-new.png)](https://www.instagram.com/deepakvevo/)
 [![FaceBook](https://img.icons8.com/bubbles/100/000000/facebook.png)](https://www.facebook.com/deepak.karumuri.3)
-[![Twitter](https://img.icons8.com/bubbles/100/000000/twitter.png)](https://twitter.com/deepak_karumuri)
+
